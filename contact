@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact | Get in Touch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a class="skip-main" href="#main">Skip to Main Content</a>
+    <header>
+        <nav class="main-nav">
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="main">
+        <h1>Contact Us</h1>
+        <img src="https://picsum.photos/id/40/800/300" alt="Modern office workspace">
+        <p>Feel free to reach out via our social media or email.</p>
+    </main>
+</body>
+</html>
